@@ -1,0 +1,119 @@
+.head{
+      
+    background-color:rgb(255,255,255);
+    border:solid;
+     }
+  
+     .note{
+       background-color:rgb(200,0,0);
+       border: dotted;
+     }
+  
+  .grid {
+    background: rgb(200,0,0);
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid#000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .cicada {
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:rgb(200,0,0);
+  }
+
+  .youtube{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+.menu{
+display:flex;
+justify-content:space-between;
+background-color:#000000;
+padding:15px;
+font-size:20px;
+font-family: sans-serif;
+font-weight: 400;
+color: #ffffff;
+}
+body{
+margin:0px;
+background-color: #f7f2f2;
+
+}
+.gridimg{
+border:2px solid #000000;
+border-radius:50px;
+}
+.origami{
+border-radius: 20px;
+background-color:#ffffff;
+padding:30px;
+margin:25px;
+width:310px;
+font-family: fantasy;
+
+}
